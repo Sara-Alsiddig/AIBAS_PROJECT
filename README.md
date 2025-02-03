@@ -1,8 +1,12 @@
 # Welcome to the AI-based ARPU Prediction for Telecom Customers
 
 Authors: Osman Mohammd & Sara MohammedAhmed
+
+
 Course: M. Grum: Advanced AI-based Application Systems
+
 Institution: University of Potsdam
+
 License: AGPL-3.0
 
 ## Project Overview
